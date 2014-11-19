@@ -1,4 +1,3 @@
-Sentence 1
-Sentence 2
-Hello Advanced Java Class
+null
+[Brian Hubert, 1114 lane, West Allis, WI 55555, Freddy Hady, shady lane, watertown, WI 53094, Shak O'neill, Main Street, Cudahay, WI 55555]
 
