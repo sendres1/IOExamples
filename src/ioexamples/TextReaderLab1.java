@@ -30,10 +30,16 @@ public class TextReaderLab1{
 	 * shows how to use a system dependent separator char in a portable way.
 	 * Line 32 shows how to reference a file in the current classpath.
 	 */
-	File data = new File("C:" + File.separatorChar
-                          + "temp" + File.separatorChar 
-                          + "lab1" + File.separatorChar
-                                        + "file.txt");
+//	File data = new File("C:" + File.separatorChar
+//        + "temp" + File.separatorChar 
+//                          + "lab1" + File.separatorChar
+//                   + "file.txt");
+       File data = new File(File.separatorChar
+                      + "ADV JAVA" + File.separatorChar 
+                        + File.separatorChar
+                    + "file.txt");
+       
+       
 //	File data = new File(File.separatorChar + "temp" + File.separatorChar 
 //                        + "test.txt");
 //                + "test.txt");
